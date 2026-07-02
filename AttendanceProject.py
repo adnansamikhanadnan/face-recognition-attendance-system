@@ -1,5 +1,5 @@
-# Full Project Code Mail : vatshayan007@gmail.com
-# If you get error then Mail : vatshayan007@gmail.com
+# Full Project Code Mail : adnansami0786786786@gmail.com
+# If you get error then Mail : adnansami0786786786@gmail.com
 
 import cv2
 import numpy as np
